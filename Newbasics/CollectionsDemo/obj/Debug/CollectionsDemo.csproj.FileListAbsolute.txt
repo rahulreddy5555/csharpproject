@@ -1,0 +1,7 @@
+C:\Training\csharp\Newbasics\CollectionsDemo\bin\Debug\CollectionsDemo.exe.config
+C:\Training\csharp\Newbasics\CollectionsDemo\bin\Debug\CollectionsDemo.exe
+C:\Training\csharp\Newbasics\CollectionsDemo\bin\Debug\CollectionsDemo.pdb
+C:\Training\csharp\Newbasics\CollectionsDemo\obj\Debug\CollectionsDemo.csprojAssemblyReference.cache
+C:\Training\csharp\Newbasics\CollectionsDemo\obj\Debug\CollectionsDemo.csproj.CoreCompileInputs.cache
+C:\Training\csharp\Newbasics\CollectionsDemo\obj\Debug\CollectionsDemo.exe
+C:\Training\csharp\Newbasics\CollectionsDemo\obj\Debug\CollectionsDemo.pdb

@@ -1,0 +1,10 @@
+C:\Training\csharp\Newbasics\OopsDemo\obj\Debug\OopsDemo.csprojAssemblyReference.cache
+C:\Training\csharp\Newbasics\OopsDemo\obj\Debug\OopsDemo.csproj.CoreCompileInputs.cache
+C:\Training\csharp\Newbasics\OopsDemo\bin\Debug\OopsDemo.exe.config
+C:\Training\csharp\Newbasics\OopsDemo\bin\Debug\OopsDemo.exe
+C:\Training\csharp\Newbasics\OopsDemo\bin\Debug\OopsDemo.pdb
+C:\Training\csharp\Newbasics\OopsDemo\obj\Debug\OopsDemo.exe
+C:\Training\csharp\Newbasics\OopsDemo\obj\Debug\OopsDemo.pdb
+C:\Training\csharp\Newbasics\OopsDemo\bin\Debug\Myclasslibrary.dll
+C:\Training\csharp\Newbasics\OopsDemo\bin\Debug\Myclasslibrary.pdb
+C:\Training\csharp\Newbasics\OopsDemo\obj\Debug\OopsDemo.csproj.CopyComplete

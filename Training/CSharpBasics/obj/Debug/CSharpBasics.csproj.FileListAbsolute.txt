@@ -1,0 +1,1 @@
+C:\Training\csharp\Training\CSharpBasics\obj\Debug\CSharpBasics.csproj.CoreCompileInputs.cache

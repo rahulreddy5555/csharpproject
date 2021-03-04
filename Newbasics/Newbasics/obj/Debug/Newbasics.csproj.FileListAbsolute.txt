@@ -1,0 +1,7 @@
+C:\Training\csharp\Newbasics\Newbasics\bin\Debug\Newbasics.exe.config
+C:\Training\csharp\Newbasics\Newbasics\bin\Debug\Newbasics.exe
+C:\Training\csharp\Newbasics\Newbasics\bin\Debug\Newbasics.pdb
+C:\Training\csharp\Newbasics\Newbasics\obj\Debug\Newbasics.csproj.CoreCompileInputs.cache
+C:\Training\csharp\Newbasics\Newbasics\obj\Debug\Newbasics.exe
+C:\Training\csharp\Newbasics\Newbasics\obj\Debug\Newbasics.pdb
+C:\Training\csharp\Newbasics\Newbasics\obj\Debug\Newbasics.csprojAssemblyReference.cache

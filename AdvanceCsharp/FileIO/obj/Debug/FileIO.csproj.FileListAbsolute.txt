@@ -1,0 +1,7 @@
+C:\Training\csharp\AdvanceCsharp\FileIO\bin\Debug\FileIO.exe.config
+C:\Training\csharp\AdvanceCsharp\FileIO\bin\Debug\FileIO.exe
+C:\Training\csharp\AdvanceCsharp\FileIO\bin\Debug\FileIO.pdb
+C:\Training\csharp\AdvanceCsharp\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+C:\Training\csharp\AdvanceCsharp\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+C:\Training\csharp\AdvanceCsharp\FileIO\obj\Debug\FileIO.exe
+C:\Training\csharp\AdvanceCsharp\FileIO\obj\Debug\FileIO.pdb
